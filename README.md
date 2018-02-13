@@ -1,2 +1,0 @@
-# MagicSquares
-Magic Squares
